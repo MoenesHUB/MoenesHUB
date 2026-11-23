@@ -17,11 +17,11 @@
 
 ### `$ whoami`
 
-**SAP Basis Consultant** with two years of hands-on infrastructure behind me. At WYNSYS I ran the systems, network and security stack end to end, from Microsoft 365 and endpoint security to firewalls, SIEM, virtualisation and backup. I also took part in the company's **ISO/IEC 27001:2022** certification renewal.
+**SAP Basis Consultant at WYNSYS**, after two years as the company's Network & System Administrator. In that role I ran the systems, network and security stack end to end, from Microsoft 365 and endpoint security to firewalls, SIEM, virtualisation and backup. I also took part in WYNSYS's **ISO/IEC 27001:2022** certification renewal.
 
 ```yaml
-role:        SAP Basis Consultant                       # now
-before:      Network & System Administrator @ WYNSYS    # 2 years
+role:        SAP Basis Consultant @ WYNSYS              # now
+before:      Network & System Administrator @ WYNSYS    # 2 years, then moved to the SAP stream
 specialised: [vulnerability management, patching, firewalling, SIEM, backup & recovery]
 built:       WYNSYS's NOC on ManageEngine OpManager
 compliance:  ISO/IEC 27001:2022 certification renewal, audited by AFNOR

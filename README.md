@@ -1,14 +1,14 @@
 <!-- Header banner: portfolio palette (#070809 → #2f9ba0, text #e9edf2) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070809,60:0c3b3e,100:2f9ba0&height=200&section=header&text=Moenes%20Jaouadi&fontColor=e9edf2&fontSize=46&fontAlignY=36&desc=Network%20%26%20Systems%20%C2%B7%20Software%20%C2%B7%20Security&descSize=16&descAlignY=58&descAlign=50" alt="Moenes Jaouadi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070809,60:0c3b3e,100:2f9ba0&height=200&section=header&text=Moenes%20Jaouadi&fontColor=e9edf2&fontSize=46&fontAlignY=36&desc=SAP%20Basis%20%C2%B7%20Systems%20%C2%B7%20Networks&descSize=16&descAlignY=58&descAlign=50" alt="Moenes Jaouadi" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=5CE1E6&center=true&vCenter=true&width=620&lines=Network+%26+Systems+Administrator+%40+WYNSYS;Software+Engineering+student+%40+Esprit;Cisco+Certified+Ethical+Hacker;I+automate+the+manual+parts+of+ops." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=5CE1E6&center=true&vCenter=true&width=620&lines=SAP+Basis+Consultant;2+years+as+Network+%26+Systems+Admin+%40+WYNSYS;Software+Engineering+student+%40+Esprit;I+automate+the+manual+parts+of+ops." alt="Typing intro" />
 </p>
 
 <p align="center">
-  <a href="https://mouhamedmoenesjaouadi.com"><img src="https://img.shields.io/badge/Portfolio-070809?style=for-the-badge&logo=googlechrome&logoColor=5ce1e6" alt="Portfolio" /></a>
+  <a href="https://portfolio-one-coral-48.vercel.app"><img src="https://img.shields.io/badge/Portfolio-070809?style=for-the-badge&logo=googlechrome&logoColor=5ce1e6" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/moenes-jaouadi-a643b2235"><img src="https://img.shields.io/badge/LinkedIn-070809?style=for-the-badge&logo=linkedin&logoColor=5ce1e6" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Tunis,%20Tunisia-070809?style=for-the-badge&logo=googlemaps&logoColor=5ce1e6" alt="Tunis, Tunisia" />
   <img src="https://img.shields.io/badge/Open%20to%20internships-070809?style=for-the-badge&logo=handshake&logoColor=5ce1e6" alt="Open to internships" />
@@ -18,12 +18,12 @@
 
 ### `$ whoami`
 
-I keep networks and systems running, and I build the software and automation that makes them **observable**.
+**SAP Basis Consultant** with two years of hands-on systems and network administration behind me. I keep platforms running, and I build the automation that makes them **observable**.
 
 ```yaml
-role:      Network & System Administrator @ WYNSYS   # Aug 2024 → now
+role:      SAP Basis Consultant                      # now
+before:    Network & System Administrator @ WYNSYS   # 2 years
 studying:  Software Engineering @ Esprit
-certified: Cisco Ethical Hacker
 built:     WYNSYS's NOC on ManageEngine OpManager (discovery, maps, alerting, automated workflows)
 daily:     [Active Directory, Firewalls, Virtualisation, Backups, Linux]
 codes_in:  [Python, Java / Spring Boot]
@@ -42,7 +42,7 @@ languages: [Arabic, French, English]
   <img src="https://img.shields.io/badge/ManageEngine%20OpManager-0c0e11?style=flat-square&labelColor=0c0e11&color=0c0e11" />
   <img src="https://img.shields.io/badge/Active%20Directory-0c0e11?style=flat-square&logo=windows&logoColor=5ce1e6" />
   <img src="https://img.shields.io/badge/Keycloak-0c0e11?style=flat-square&logo=keycloak&logoColor=5ce1e6" />
-  <img src="https://img.shields.io/badge/Cisco-0c0e11?style=flat-square&logo=cisco&logoColor=5ce1e6" />
+  <img src="https://img.shields.io/badge/SAP%20Basis-0c0e11?style=flat-square&logo=sap&logoColor=5ce1e6" />
   <img src="https://img.shields.io/badge/SNMP-0c0e11?style=flat-square&color=0c0e11" />
   <img src="https://img.shields.io/badge/Firewalls-0c0e11?style=flat-square&color=0c0e11" />
   <img src="https://img.shields.io/badge/scikit--learn-0c0e11?style=flat-square&logo=scikitlearn&logoColor=5ce1e6" />
@@ -57,7 +57,7 @@ languages: [Arabic, French, English]
 | 🚚 | [**DeliverX**](https://github.com/MoenesHUB/DeliverX) | Team microservices delivery platform. I did the Keycloak identity setup and the client + driver services | Java · Spring Boot · Keycloak |
 | 🌐 | [**portfolio**](https://github.com/MoenesHUB/portfolio) | My personal site, with case studies and live GitHub data | Next.js · TypeScript · Tailwind |
 
-> Case studies for the **NOC build** and my **Sagem Com** intervention-monitoring app are on [my portfolio →](https://mouhamedmoenesjaouadi.com/projects)
+> Case studies for the **NOC build** and my **Sagem Com** intervention-monitoring app are on [my portfolio →](https://portfolio-one-coral-48.vercel.app/projects)
 
 ### 🐍 Activity
 
